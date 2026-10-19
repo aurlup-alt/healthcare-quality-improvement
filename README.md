@@ -221,3 +221,30 @@ Suggestions, feedback, and contributions that can improve these resources are we
 This repository aims to contribute to a culture of continuous learning and evidence-informed healthcare improvement by making practical quality improvement resources easier to access, understand, adapt, and use.
 
 **Better care through measurement, learning, collaboration, and continuous improvement.**
+## Available Templates
+
+These practical templates can be adapted to support healthcare quality improvement activities in different healthcare settings.
+
+1. [Aim Statement Template](Aim-Statement-Template.md) — Define a clear, measurable improvement goal.
+2. [PDSA Worksheet](PDSA-Worksheet.md) — Plan, test, study, and refine a change.
+3. [Measurement Plan Template](Measurement-Plan-Template.md) — Define indicators, data sources, measurement frequency, and responsibilities.
+4. [Root Cause Analysis (RCA) Template](RCA-Template.md) — Explore contributing factors and identify opportunities to prevent recurrence.
+
+## How to Use These Templates
+
+- Select the template that matches your improvement objective.
+- Adapt it to your healthcare facility, team, available resources, and local context.
+- Involve relevant healthcare professionals and, where appropriate, patients and their families.
+- Use reliable data to assess whether changes lead to improvement.
+- Review results regularly and document lessons learned.
+
+## Evidence-Informed Resources
+
+- [WHO Quality of Care Guidance and Tools](https://www.who.int/teams/integrated-health-services/patient-safety-and-quality-of-care/quality-of-care-guidance-and-tools)
+- [WHO Quality Toolkit](https://qualityhealthservices.who.int/quality-toolkit/about-toolkit/overview)
+- [IHI Model for Improvement: Establishing Measures](https://www.ihi.org/library/model-for-improvement/establishing-measures)
+- [IHI Plan-Do-Study-Act (PDSA) Worksheet](https://www.ihi.org/library/tools/plan-do-study-act-pdsa-worksheet)
+
+## Important Note
+
+These templates are intended for educational and quality improvement purposes. Adapt them to local policies, clinical requirements, patient safety needs, and available resources. Protect patient confidentiality and do not publish identifiable patient information.
