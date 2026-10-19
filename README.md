@@ -1,4 +1,3 @@
-# healthcare-quality-improvement
 # Healthcare Quality Improvement
 
 **Practical tools, methods, and resources to improve the quality and safety of healthcare services.**
