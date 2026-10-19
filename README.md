@@ -184,6 +184,37 @@ Contributions should prioritise practical usefulness, transparency, patient safe
 ## License
 
 The licensing terms for original materials in this repository will be specified in the `LICENSE` file. Third-party materials remain subject to their respective copyright and licensing conditions.
+## Available Tools and Templates
+
+This repository provides practical, adaptable tools to support healthcare quality improvement, patient safety, and evidence-informed decision-making.
+
+### 1. Quality Improvement Planning
+- [Aim Statement Template](Aim-Statement-Template.md) — Define a clear, measurable improvement aim.
+- [PDSA Worksheet](PDSA-Worksheet.md) — Plan, test, study, and refine changes using Plan–Do–Study–Act cycles.
+- [Measurement Plan Template](Measurement-Plan-Template.md) — Define outcome, process, and balancing measures for improvement projects.
+
+### How to Use These Resources
+
+1. Select the template that matches your improvement project.
+2. Adapt it to your healthcare setting, team, and available data.
+3. Agree on measurable objectives and appropriate indicators.
+4. Test changes on a small scale, review the results, and refine your approach.
+5. Document lessons learned and share findings responsibly.
+
+### Evidence and References
+
+These resources are informed by established healthcare quality improvement approaches and guidance from:
+
+- [World Health Organization (WHO): Quality of Care Guidance and Tools](https://www.who.int/teams/integrated-health-services/patient-safety-and-quality-of-care/quality-of-care-guidance-and-tools)
+- [WHO Quality Toolkit](https://qualityhealthservices.who.int/quality-toolkit/about-toolkit/overview)
+- [Institute for Healthcare Improvement (IHI): Model for Improvement](https://www.ihi.org/library/model-for-improvement)
+- [IHI: Plan–Do–Study–Act (PDSA) Worksheet](https://www.ihi.org/library/tools/plan-do-study-act-pdsa-worksheet)
+
+**Important:** These templates are starting points, not substitutes for local clinical protocols, professional judgement, ethical review, or applicable data-protection requirements. Adapt them to your context before use.
+
+### Contributions
+
+Suggestions, feedback, and contributions that can improve these resources are welcome. Please do not upload identifiable patient information, confidential institutional records, or materials you do not have permission to share.
 
 ## Acknowledgement
 
