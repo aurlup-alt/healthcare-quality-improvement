@@ -229,7 +229,7 @@ These practical templates can be adapted to support healthcare quality improveme
 2. [PDSA Worksheet](PDSA-Worksheet.md) — Plan, test, study, and refine a change.
 3. [Measurement Plan Template](Measurement-Plan-Template.md) — Define indicators, data sources, measurement frequency, and responsibilities.
 4. [Root Cause Analysis (RCA) Template](RCA-Template.md) — Explore contributing factors and identify opportunities to prevent recurrence.
-
+5. [Run Chart Template](Run-Chart-Template.md) — Track performance over time and identify patterns in improvement data.
 ## How to Use These Templates
 
 - Select the template that matches your improvement objective.
